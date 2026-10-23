@@ -1,4 +1,4 @@
-# Hệ Thống Quản Lý Cư Dân & Căn Hộ Chung Cư (BuildingHub) - Đề 36
+# Hệ Thống Quản Lý Chung Cư/ Căn hộ (BuildingHub) - Đề 36
 
 Hệ thống quản lý chung cư toàn diện được đóng gói và vận hành hoàn toàn trên môi trường **Docker Compose** với 9 containers, tích hợp giải pháp giám sát hiệu năng thời gian thực (Prometheus, Grafana), thu thập log tập trung (Loki, Promtail) và áp dụng các tiêu chuẩn an toàn bảo mật (Security Hardening).
 
